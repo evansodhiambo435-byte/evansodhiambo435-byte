@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/evansodhiambo/evansodhiambo/blob/main/itaka.png" alt="e-Taka Logo" width="200"/>
+</p>
+
 ### Hi there 👋, I'm Evans Odhiambo Onyango  
 
 - 🔭 I’m currently working on: **e-Taka (AI-powered waste management app)** and **Snappy Food Company (restaurant business)**  
