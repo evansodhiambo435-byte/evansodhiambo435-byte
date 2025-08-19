@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**evansodhiambo435-byte/evansodhiambo435-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Hi there 👋, I'm Evans Odhiambo Onyango  
 
 - 🔭 I’m currently working on: **e-Taka (AI-powered waste management app)** and **Snappy Food Company (restaurant business)**  
